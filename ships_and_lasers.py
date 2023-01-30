@@ -10,7 +10,7 @@ import random
 import math
 import time
 from colour import Color
-
+from pyglet import clock
 
 import cocos
 from cocos.layer import *
