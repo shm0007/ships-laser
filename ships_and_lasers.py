@@ -10,7 +10,6 @@ import random
 import math
 import time
 from colour import Color
-from pyglet.gl import *
 
 
 import cocos
